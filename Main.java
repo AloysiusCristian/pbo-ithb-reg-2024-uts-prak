@@ -6,6 +6,8 @@ public class Main {
     }
 }
 
-// Data dummynya agak sulit jadi saya baru buat 1
-// Asumsi
+// ASUMSI
 // 1. Revenue hanya dihitung dari ticket yang sudah dibayar
+
+// NOTE
+// Data dummynya agak sulit jadi saya baru buat 1

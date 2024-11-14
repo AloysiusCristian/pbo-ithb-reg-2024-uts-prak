@@ -3,7 +3,7 @@ package Controller;
 import Model.*;
 
 public class Revenue {
-    public static double calculateTotalRevenue(){
+    public static double calculateTotalRevenue(String date){
         double revenue = 0;
         for (Reservation reservation : Data.listReservations) {
             Ticket ticket = reservation.getTicket();
